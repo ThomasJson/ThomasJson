@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  <h1>Hi ! I'm a Fullstack developer from France</h1>
+  <h2>Hi ! I'm a Fullstack developer from France</h2>
   <br/>
 
   <div align="left">
