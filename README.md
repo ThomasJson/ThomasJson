@@ -8,6 +8,8 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
 - SiamSyntax is a translation app developed on WPF
 - Template-Blazor is a template I created to start all my new Blazor apps
 
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasJson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasJson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -36,10 +38,6 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ThomasJson/ThomasJson/output/snake.svg" alt="Snake animation" />
 
 ###
 
