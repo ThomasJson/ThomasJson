@@ -8,6 +8,8 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
 - SiamSyntax is a translation app developed on WPF
 - Template-Blazor is a template I created to start all my new Blazor apps
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasJson)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ThomasJson/ThomasJson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
