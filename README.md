@@ -10,7 +10,7 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasJson&show_icons=true&theme=radical)
 
 ###
 <!--
