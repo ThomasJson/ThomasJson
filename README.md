@@ -1,20 +1,21 @@
 ##
-<p align="center">
-  
-  I'm a french Fullstack developer, currently working on Blazor Server, React.js and Quarkus.
-  
-  - StreetFood-React is the Streetfood Web UI, developed on React.js
-  - Streetfood-APIs are microservices developed on Quarkus
-  - Quill is a Web Notepad application developed on Blazor Server
-  - SiamSyntax is a translation app developed on WPF
-  - Blazor-Template is a template I created to start new Blazor Server applications
-  
-</p>
 
+<div align="center">
+  <p>Hi ! I'm a Fullstack developer from France</p>
+  <br/>
+  <p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
+  <p>Streetfood-APIs are microservices developed on Quarkus</p>
+  <p>Quill is a Web Notepad application developed on Blazor Server</p>
+  <p>SiamSyntax is a translation app developed on WPF</p>
+  <p>Blazor-Template is a template I created to start new Blazor Server applications</p>
+  
+</div>
 
-###
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasJson&show_icons=true&theme=radical)
+
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
