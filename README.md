@@ -16,6 +16,7 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
 </div>
 
 <!--
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
@@ -39,6 +40,7 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
 -->
 
 ###
