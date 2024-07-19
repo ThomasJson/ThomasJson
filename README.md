@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a french Fullstack developer, currently working on Blazor Server, React.js and Quarkus.
+
+- StreetFood-React is the Streetfood Web UI, developed on React.js
+- Streetfood-APIs are microservices developed on Quarkus
+- Quill is a Web Notepad application developed on Blazor Server
+- SiamSyntax is a translation app developed on WPF
+- Template-Blazor is a template I created to start all my new Blazor apps
+
 <!--
 **ThomasJson/ThomasJson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
