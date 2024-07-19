@@ -39,6 +39,10 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
 
 ###
 
+<img src="https://raw.githubusercontent.com/ThomasJson/ThomasJson/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **ThomasJson/ThomasJson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
