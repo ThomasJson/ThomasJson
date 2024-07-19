@@ -6,7 +6,7 @@ I'm a french Fullstack developer, currently working on Blazor Server, React.js a
 - Streetfood-APIs are microservices developed on Quarkus
 - Quill is a Web Notepad application developed on Blazor Server
 - SiamSyntax is a translation app developed on WPF
-- Template-Blazor is a template I created to start all my new Blazor apps
+- Blazor-Template is a template I created to start new Blazor Server applications
 
 ###
 
