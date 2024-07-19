@@ -1,14 +1,17 @@
 ##
 
 <div align="center">
-  <p>Hi ! I'm a Fullstack developer from France</p>
-  <br/>
-  <p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
-  <p>Streetfood-APIs are microservices developed on Quarkus</p>
-  <p>Quill is a Web Notepad application developed on Blazor Server</p>
-  <p>SiamSyntax is a translation app developed on WPF</p>
-  <p>Blazor-Template is a template I created to start new Blazor Server applications</p>
   
+  <h1>Hi ! I'm a Fullstack developer from France</h1>
+  <br/>
+
+  <div align="left">
+    <p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
+    <p>Streetfood-APIs are microservices developed on Quarkus</p>
+    <p>Quill is a Web Notepad application developed on Blazor Server</p>
+    <p>SiamSyntax is a translation app developed on WPF</p>
+    <p>Blazor-Template is a template I created to start new Blazor Server applications</p>
+  </div>
 </div>
 
 <br/>
