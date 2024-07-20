@@ -3,6 +3,7 @@
 <div align="center">
   
   <h2>Hi ! I'm a Fullstack Developer from 🇫🇷</h2>
+  <hr/>
   <br/>
 
   <div align="left">
