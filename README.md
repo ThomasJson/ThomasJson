@@ -22,7 +22,10 @@
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
 </div>
 
-
+<details>
+  <summary><h3>My Coding Journey</h3></summary>
+  Blabla
+</details>
 
 <br/>
 <br/>
