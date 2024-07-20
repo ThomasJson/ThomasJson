@@ -3,8 +3,10 @@
 <div align="center">
   
   <h2>Hi ! I'm a Fullstack Developer from 🇫🇷</h2>
-  <hr/>
   <br/>
+
+  <h3>About Me</h3>
+  <hr/>
 
   <div align="left">
     <p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
