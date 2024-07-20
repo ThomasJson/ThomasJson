@@ -15,9 +15,9 @@
 
 <h3 align="left">🙂 About Me</h3>
 <div align="left">
-  <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture principles and microservices. jehkcjkjcekjkjvkjrebcrebrevbrbkrekjvnrevkjrbvbrekbvrevbrebvvkrbvbkrebvkjrebbrekjbrbvjbrejvbjrebvjbrejvbrebhrbvhbrevbkrebvhkrevbrebvhrebbrekvbhrbvhkerhb</p>
-  <p>- 💻 I'm currently working on my portfolio</p>
-  <p>- 🎯 My goals are to keep developing cool apps</p>
+  <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture principles and microservices.</p>
+  <p>- 💻 I'm currently working on my Portfolio</p>
+  <p>- 🎯 My goal is to keep evolving as a Fullstack developer</p>
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
 </div>
 
