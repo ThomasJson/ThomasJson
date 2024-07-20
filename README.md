@@ -1,14 +1,12 @@
-##
-
 <div align="center">
   
-  <h2>Hi✌️ I'm Thomas Pearson</h2>
+  # Hi✌️ I'm Thomas Pearson
 
   <!--
   <img src="https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33452.jpg"/>
   -->
   
-  <h3>A random Fullstack developer from France</h3>
+  ### A random Fullstack developer from France
   <br/>
 
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
