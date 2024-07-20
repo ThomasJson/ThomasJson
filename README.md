@@ -48,7 +48,7 @@
 </p>
 
 <details align="center">
-  <summary><h3>My Coding Journey</h3></summary>
+  <summary><h2>🧑‍💻 My Coding Journey</h2></summary>
   Blabla
 </details>
 
