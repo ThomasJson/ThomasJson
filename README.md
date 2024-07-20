@@ -11,16 +11,15 @@
 
 </div>
 
+<h3 align="left">🙂 About Me</h3>
+<div align="left">
+  <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture principles and microservices.</p>
+  <p>- 💻 I'm currently working on my portfolio</p>
+  <p>- 🎯 My goals are to keep developing cool apps</p>
+  <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-  <h3 align="left">🙂 About Me</h3>
-
-  <div align="left" style="margin-right:60px;">
-    <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture principles and microservices.</p>
-    <p>- 💻 I'm currently working on my portfolio</p>
-    <p>- 🎯 My goals are to keep developing cool apps</p>
-    <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
-  </div>
 
 <br/>
 <br/>
