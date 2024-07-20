@@ -14,12 +14,13 @@
   <h3 align="left">About Me</h3>
 
   <div align="left">
-    <p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
-    <p>Streetfood-APIs are microservices developed on Quarkus</p>
-    <p>Quill is a Web Notepad application developed on Blazor Server</p>
-    <p>SiamSyntax is a translation app developed on WPF</p>
-    <p>Blazor-Template is a template I created to start new Blazor Server applications</p>
-  </div>
+    <p>- ❤️ I enjoy developing well-thought-out applications using Clean Architecture principles and microservices.</p>
+    <p>- 💻 I'm currently working on my portfolio</p>
+    <p>- 🎯 My goals are to keep developing cool apps</p>
+    <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
+    <p>- ♟ I'm a London/Karo-Cann chess player</p>
+</div>
+
 </div>
 
 <br/>
@@ -51,6 +52,12 @@
 **ThomasJson/ThomasJson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
+<p>Streetfood-APIs are microservices developed on Quarkus</p>
+<p>Quill is a Web Notepad application developed on Blazor Server</p>
+<p>SiamSyntax is a translation app developed on WPF</p>
+<p>Blazor-Template is a template I created to start new Blazor Server applications</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
