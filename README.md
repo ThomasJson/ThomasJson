@@ -2,8 +2,11 @@
 
 <div align="center">
   
-  <h2>Hi ! I'm a Fullstack Developer from 🇫🇷</h2>
+  <h2>Hi ! I'm Thomas Pearson</h2>
+  <h3>A passionate Fullstack developer from France</h3>
   <br/>
+
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
   <h3 align="left">About Me</h3>
 
