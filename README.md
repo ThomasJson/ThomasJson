@@ -18,7 +18,7 @@
     <p>- 💻 I'm currently working on my portfolio</p>
     <p>- 🎯 My goals are to keep developing cool apps</p>
     <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
-    <p>- ♟ I'm a London/Karo-Cann chess player</p>
+    <p>- ♟ I'm a chess player</p>
 </div>
 
 </div>
@@ -26,6 +26,8 @@
 <br/>
 <br/>
 <br/>
+
+<h3 align="left">My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasJson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
@@ -35,6 +37,8 @@
 ###
 
 <br/>
+
+<h3 align="left">Languages / Frameworks / Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
