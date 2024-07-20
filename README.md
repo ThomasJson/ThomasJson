@@ -22,11 +22,6 @@
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
 </div>
 
-<details>
-  <summary><h3>My Coding Journey</h3></summary>
-  Blabla
-</details>
-
 <br/>
 <br/>
 <br/>
@@ -52,7 +47,10 @@
   </a>
 </p>
 
-###
+<details align="center">
+  <summary><h3>My Coding Journey</h3></summary>
+  Blabla
+</details>
 
 <!--
 **ThomasJson/ThomasJson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
