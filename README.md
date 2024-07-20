@@ -6,7 +6,7 @@
   <img src="https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33452.jpg"/>
   -->
   
-  <h3> Fullstack developer from France <img height="15" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/1280px-Flag_of_France.png" /></h3>
+  **`<h3> Fullstack developer from France <img height="15" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/1280px-Flag_of_France.png" /></h3>`**
   <br/>
 
   <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
