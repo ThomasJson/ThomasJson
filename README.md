@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<h3 align="center">🚀 My GitHub Stats</h3>
+<h2 align="center">📊 My GitHub Stats</h2>
 <br/>
 
 <div align="center">
@@ -34,7 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThomasJson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
-<h3 align="center">🛠 Languages / Frameworks / Tools</h3>
+<h2 align="center">🛠 Languages / Frameworks / Tools</h2>
 <br/>
 
 <p align="center">
