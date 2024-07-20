@@ -9,7 +9,9 @@
   <h3> Welcome to my Github! I'm a Fullstack developer, from France <img height="15" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/1280px-Flag_of_France.png" /></h3>
   <br/>
 
-  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
   <h3 align="left">🙂 About Me</h3>
 
@@ -19,8 +21,6 @@
     <p>- 🎯 My goals are to keep developing cool apps</p>
     <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
   </div>
-
-</div>
 
 <br/>
 <br/>
