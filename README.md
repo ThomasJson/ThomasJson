@@ -13,7 +13,7 @@
 
   <h3 align="left">🙂 About Me 🙂</h3>
 
-  <div align="left" width="100">
+  <div align="left" width="100px">
     <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture principles and microservices.</p>
     <p>- 💻 I'm currently working on my portfolio</p>
     <p>- 🎯 My goals are to keep developing cool apps</p>
