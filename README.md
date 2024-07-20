@@ -3,7 +3,7 @@
 <div align="center">
   
   <h2>Hi✌️ I'm Thomas Pearson</h2>
-  <img height="100" width="500" src="https://miro.medium.com/v2/resize:fit:1400/0*nKZw0IT60yUF-3p0"/>
+  <img src="[https://miro.medium.com/v2/resize:fit:1400/0*nKZw0IT60yUF-3p0](https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33452.jpg)"/>
   <h3>A random Fullstack developer from France</h3>
   <br/>
 
