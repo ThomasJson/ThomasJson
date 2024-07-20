@@ -13,7 +13,7 @@
 
   <h3 align="left">🙂 About Me 🙂</h3>
 
-  <div align="left" width="200">
+  <div align="left" width="100">
     <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture principles and microservices.</p>
     <p>- 💻 I'm currently working on my portfolio</p>
     <p>- 🎯 My goals are to keep developing cool apps</p>
@@ -27,6 +27,7 @@
 <br/>
 
 <h3 align="center">🚀 My GitHub Stats 🚀</h3>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasJson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
