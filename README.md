@@ -3,6 +3,7 @@
 <div align="center">
   
   <h2>Hi✌️ I'm Thomas Pearson</h2>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*nKZw0IT60yUF-3p0"/>
   <h3>A random Fullstack developer from France</h3>
   <br/>
 
