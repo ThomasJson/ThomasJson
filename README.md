@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-<h3 align="left">My GitHub Stats</h3>
+<h3 align="center">My GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThomasJson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
@@ -38,7 +38,7 @@
 
 <br/>
 
-<h3 align="left">Languages / Frameworks / Tools</h3>
+<h3 align="center">🛠 Languages / Frameworks / Tools 🛠</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
