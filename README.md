@@ -5,8 +5,7 @@
   <h2>Hi ! I'm a Fullstack Developer from 🇫🇷</h2>
   <br/>
 
-  <h3>About Me</h3>
-  <hr/>
+  <h3 align="left">About Me</h3>
 
   <div align="left">
     <p>StreetFood-React is the Streetfood Web UI, developed on React.js</p>
