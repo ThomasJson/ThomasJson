@@ -48,7 +48,7 @@
 </p>
 
 
-<h2 align="center">🌐 My Open Source contribution</h2>
+<h2 align="center">🌐 My Open Source Contribution</h2>
 <br/>
 
 <a href="https://github.com/ThomasJson/Blazor-Template">
