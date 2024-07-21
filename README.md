@@ -50,9 +50,13 @@
 <h2 align="center">🌐 My Open Source Contribution</h2>
 <br/>
 
-<a href="https://github.com/ThomasJson/Blazor-Template">
-  <img src="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg?fullname=">
-</a>
+<div align="center">
+  <p>Here is a template I created to start new Blazor Server app with a basic authentication process and TailwindCSS already initialized.</p>
+  <p>Feel free to use this template for your own Web apps :)</p>
+  <a href="https://github.com/ThomasJson/Blazor-Template">
+    <img src="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg?fullname=">
+  </a>
+</div>
 
 <!--
 <details align="center">
