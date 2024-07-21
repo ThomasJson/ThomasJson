@@ -52,7 +52,7 @@
 <br/>
 
 <a href="https://github.com/ThomasJson/Blazor-Template">
-  <img src="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg">
+<img src="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg">
 </a>
 
 
