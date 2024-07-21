@@ -51,7 +51,7 @@
 <h2 align="center">🌐 My Open Source Contribution</h2>
 <br/>
 
-[![ThomasJson/Blazor-Template - GitHub](https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg)](https://github.com/ThomasJson/Blazor-Template)
+<object type="image/svg+xml" data="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg?fullname=&link_target=_blank"></object>
 
 <!--
 <details align="center">
