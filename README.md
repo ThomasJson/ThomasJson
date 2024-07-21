@@ -47,14 +47,14 @@
   </a>
 </p>
 
-<!--
+
 <h2 align="center">🌐 My Open Source contribution</h2>
 <br/>
 
 <a href="https://github.com/ThomasJson/Blazor-Template">
-  <img align="center" src="https://Blazor-Template.vercel.app/api/pin/?username=ThomasJson&repo=Blazor-Template&theme=buefy" />
+  <img src="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg">
 </a>
--->
+
 
 <!--
 <details align="center">
