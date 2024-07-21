@@ -18,7 +18,7 @@
   <p>- ❤️ I enjoy developing well-thought-out apps using Clean Architecture</p>
   <p>principles and microservices.</p>
   <p>- 💻 I'm currently working on my Portfolio</p>
-  <p>- 🎯 My goal is to keep evolving as a Fullstack developer</p>
+  <p>- 👀 Here you'll mostly find React.js Web UIs, Blazor Server & Quarkus apps</p>
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
 </div>
 
