@@ -24,7 +24,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <br/>
@@ -51,7 +50,9 @@
 <h2 align="center">🌐 My Open Source Contribution</h2>
 <br/>
 
-
+<a href="https://github.com/ThomasJson/Blazor-Template">
+  <img src="https://gh-card.dev/repos/ThomasJson/Blazor-Template.svg?fullname=">
+</a>
 
 <!--
 <details align="center">
