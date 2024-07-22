@@ -15,7 +15,7 @@
 
 <h3 align="left">😉 About Me</h3>
 <div align="left">
-  <p>- ❤️ I enjoy developing well-thought-out apps and microservices using clean architecture principles.</p>
+  <p>- ❤️ Enthusiastic and optimistic guy who enjoys creating well-thought-out applications.</p>
   <p>- 💻 I'm currently working on my Portfolio</p>
   <p>- 👀 Here you'll mostly find React.js Web UIs, Blazor Server & Quarkus apps</p>
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
