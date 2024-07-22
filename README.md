@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center">🌐 My Open Source Contribution</h2>
+<h2 align="center">🌐 Open source template</h2>
 <br/>
 
 <div align="center">
