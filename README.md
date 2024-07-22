@@ -17,7 +17,7 @@
 <div align="left">
   <p>- ❤️ Optimistic guy who enjoys creating well-thought-out applications.</p>
   <p>- 💻 I'm currently working on my Portfolio</p>
-  <p>- 👀 Here you'll find React.js Web UIs, Blazor Server & Quarkus microservices</p>
+  <p>- 👀 Here you'll find React.js Web UIs, Blazor Server apps & Quarkus microservices</p>
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
 </div>
 
