@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center">🌐 Open source template</h2>
+<h2 align="center">🌐 Open source Blazor Server template</h2>
 <br/>
 
 <div align="center">
