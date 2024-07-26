@@ -6,7 +6,7 @@
   <img src="https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33452.jpg"/>
   -->
   
-  <h3> Welcome to my Github! I'm a Fullstack developer, from France <img height="15" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/1280px-Flag_of_France.png" /></h3>
+  <h3> Welcome to my Github! I'm a Fullstack developer from France <img height="15" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_France.png/1280px-Flag_of_France.png" /></h3>
   <br/>
 
 </div>
