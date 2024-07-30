@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="360" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<h3 align="left">😉 About Me</h3>
+<h3 align="left">About Me</h3>
 <div align="left">
   <p>- ❤️ Optimistic guy who enjoys creating well-thought-out applications</p>
   <p>- 💻 I'm currently working on my Portfolio</p>
