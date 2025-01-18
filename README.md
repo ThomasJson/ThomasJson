@@ -16,7 +16,7 @@
 <h3 align="left">About Me</h3>
 <div align="left">
   <p>- ❤️ Optimistic guy who enjoys creating well-thought-out applications</p>
-  <p>- 💻 I'm currently working on my Portfolio</p>
+  <p>- 💻 Currently having fun with TDD and AI</p>
   <p>- 👀 Here you'll find React.js Web UIs, Blazor Server apps & Quarkus microservices</p>
   <p>- 📫 You can reach me at thomaspearson@outlook.fr</p>
 </div>
